@@ -1,0 +1,41 @@
+body {
+  background-color: aquamarine;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.cabezera {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: blueviolet;
+  background-position: center;
+  background-image: url(../img/OIP.jpg);
+  background-size: cover;
+  height: 5em;
+  padding: 2em;
+  font-size: 1em;
+}
+
+.cabezera h1 {
+  margin: 0px;
+  font-weight: 400;
+}
+.productos {
+  width: 80%;
+  margin: auto;
+}
+.productos td {
+  width: 50%;
+  padding: 2em;
+}
+.productos img {
+  width: 100%;
+  border: solid 1px #ddd;
+  object-fit: cover;
+}
+.footer {
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(red, green, blue);
+  color: white;
+  text-align: center;
+  font-weight: 900;
+}

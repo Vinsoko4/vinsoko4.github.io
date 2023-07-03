@@ -1,0 +1,61 @@
+
+.navbar-brand {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-weight: bold;
+}
+.navbar-custom {
+    background-color: #28a745;
+  }
+
+.navbar-toggler .navbar-toggler-icon {
+    color: #F8F9FA;
+    /* background-color: transparent; */
+  }
+
+.navbar-custom .navbar-brand {
+    color: var(--white);
+  }
+
+.navbar-custom .navbar-nav .nav-link {
+    color: var(--white);
+  }
+
+.card-title {
+    color: #212529;
+  }
+
+.card-text {
+    color: #707070;
+  }
+.card-text .card-text-price {
+    display: inline-block;
+    margin-right: 10px;
+    color: inherit; 
+}
+
+.card-text .card-text-price-discount {
+    display: inline-block;
+    color: #28a745; 
+    font-size: 1.1em; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.btn-send {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.footer-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-weight: bold;
+}
+
+  
